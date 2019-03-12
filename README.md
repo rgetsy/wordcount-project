@@ -1,0 +1,2 @@
+# wordcount-project
+django class
